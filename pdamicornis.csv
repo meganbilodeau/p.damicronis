@@ -1,0 +1,26 @@
+﻿Colony ,D1,D2,Perc_D,DWC,Perc_Comp,WLS,Location ,Taxonomy
+1,18,13,60,T,25,L,Crest,Massive
+2,34,28,40,F,10,W,Crest,Encrusting
+3,42,36,50,F,30,S,Crest,Massive
+4,35,26,80,F,50,S,Crest,Soft 
+5,34,32,90,F,40,L,Crest,Soft 
+6,20,25,5,T,20,S,Crest,Soft 
+7,16,22,5,F,10,L,Crest,Soft 
+8,37,38,30,T,50,S,Crest,Other
+9,47,32,5,F,40,L,Crest,Soft 
+10,49,37,30,T,30,L,Crest,Soft 
+11,47,47,90,F,30,L,Crest,Encrusting
+12,25,15,10,F,5,S,Crest,Hard
+13,19,26,5,F,20,W,Crest,Massive
+14,43,45,75,F,40,W,Crest,Encrusting
+15,51,48,20,F,60,W,Crest,Massive
+16,59,44,80,F,50,L,Crest,Encrusting
+17,32,36,75,T,70,L,Crest,Massive
+18,29,22,10,F,5,L,Crest,Massive
+19,13,10,5,F,75,W,Crest,Encrusting
+20,19,40,5,F,20,W,Crest,Massive
+21,14,13,25,T,30,S,Crest,Soft 
+22,44,34,30,T,20,L,Crest,Soft 
+23,34,22,25,F,10,L,Crest,Encrusting
+24,57,75,50,F,5,W,Slope,Encrusting
+25,24,21,5,F,20,W,Slope,Massive
