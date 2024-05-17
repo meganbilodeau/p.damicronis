@@ -259,3 +259,23 @@ print(chi_sq_result)
 # Extract the p-value from the result
 p_value <- chi_sq_result$p.value
 
+######### Reef Zone distributions 
+
+my_theme <- theme_minimal() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.line = element_line(color = "black"),
+    axis.text = element_text(size = 14),
+    axis.title = element_text(size = 14),
+    legend.title = element_text(size = 16),
+    legend.text = element_text(size = 12),
+  )
+
+ggplot(colony_data, aes(x = Location)) +
+  geom_bar(fill = "grey", color = "black") +
+  labs(
+       x = "Reef Zone",
+       y = "Number of Colonies") +
+  my_theme
+
